@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "avatar",
+      "description": "A portrait of a person.",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjE2NjU3ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "1",
+      "description": "An e-commerce website interface.",
+      "imageUrl": "https://images.unsplash.com/photo-1605902711834-8b11c3e3ef2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxvbmxpbmUlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NjE2ODk0MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "online shopping"
+    },
+    {
+      "id": "2",
+      "description": "A project management dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1759661966728-4a02e3c6ed91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkYXNoYm9hcmQlMjBjaGFydHxlbnwwfHx8fDE3NjE2ODczODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard chart"
+    },
+    {
+      "id": "3",
+      "description": "A developer portfolio website.",
+      "imageUrl": "https://images.unsplash.com/photo-1603943761979-879c839ac8e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2RlJTIwZWRpdG9yfGVufDB8fHx8MTc2MTY1MTQ4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code editor"
+    }
+  ]
 }
