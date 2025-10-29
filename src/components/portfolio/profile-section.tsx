@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import { personalData } from '@/lib/data';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
-import CvUploadButton from './cv-upload-button';
 import { Button } from '@/components/ui/button';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { Download, Mail, Phone, MapPin } from 'lucide-react';
@@ -34,7 +33,6 @@ export default function ProfileSection() {
             </a>
           </div>
           <div className="flex gap-4 pt-4">
-            <CvUploadButton />
             <Button variant="outline" asChild>
               <a href="/placeholder-cv.pdf" download>
                 <Download className="mr-2 h-4 w-4" /> Download CV
