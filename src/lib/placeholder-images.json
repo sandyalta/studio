@@ -23,6 +23,18 @@
       "description": "A developer portfolio website.",
       "imageUrl": "https://images.unsplash.com/photo-1603943761979-879c839ac8e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2RlJTIwZWRpdG9yfGVufDB8fHx8MTc2MTY1MTQ4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "code editor"
+    },
+    {
+      "id": "4",
+      "description": "Blockchain concept with tokens.",
+      "imageUrl": "https://images.unsplash.com/photo-1669060534046-6271062c85b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxibG9ja2NoYWluJTIwdG9rZW58ZW58MHx8fHwxNzYyNTc3MTEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blockchain token"
+    },
+    {
+      "id": "5",
+      "description": "A person using a ride-sharing app on their phone.",
+      "imageUrl": "https://images.unsplash.com/photo-1636935529049-2078e9ee3e6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyaWRlJTIwc2hhcmluZ3xlbnwwfHx8fDE3NjI1NzcxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ride sharing"
     }
   ]
 }

@@ -1,4 +1,3 @@
-
 export const personalData = {
   name: 'Sandy Tadete',
   title: 'Software Engineer II',
@@ -26,6 +25,7 @@ within the team, as reflected in the positive feedback from my
     social: {
       github: 'https://github.com/sandyalta',
       linkedin: 'https://www.linkedin.com/in/sandy-tadete/',
+      twitter: '#',
     },
   },
   location: 'Kuala lumpur, Malaysia',
@@ -36,8 +36,7 @@ export const experienceData = [
     title: 'Software Engineer II (React Native /React JS)',
     company: 'Airasia MOVE',
     date: 'Dec 2022 - Present',
-    description:
-      `Working on Ride e-hailing app with such as
+    description: `Working on Ride e-hailing app with such as
 Driver app and Passenger app using React
 native project (typescript and react native,
 using Swift and Java for native). Business
@@ -54,8 +53,7 @@ Engine for server side.`,
     title: 'React Native Developer (Part Time)',
     company: 'Universe Action Limited',
     date: 'May 2024 - Oct 2024',
-    description:
-      `Part-time job which built a Blockchain app
+    description: `Part-time job which built a Blockchain app
 using react native from scratch till released to
 production`,
   },
@@ -63,8 +61,7 @@ production`,
     title: 'Senior Application Engineer (React Js and MS)',
     company: 'Hitachi Ebworx Sdn Bhd',
     date: 'Aug 2021 - Nov 2022',
-    description:
-      `Building web application using React Js and
+    description: `Building web application using React Js and
 be a part as Leader for front end team on the
 project and also working for API side using MS
 (micro services). Debug log using OpenShift and using
@@ -77,8 +74,7 @@ the project, using React Js in Micro-Frontend
     title: 'Senior Application Engineer (Mobile Developer)',
     company: 'Hitachi Ebworx Indonesia',
     date: 'June 2020 - July 2021',
-    description:
-      `Build mobile application using android studio
+    description: `Build mobile application using android studio
 (native android) and swift (native iOS). Do hybrid project using framework for both
 android and iOS (React native, Angular JS,
 etc) and do technical support by fixing bugs
@@ -89,8 +85,7 @@ handle on the Android Java code.`,
     title: 'Mobile Application Developer (React Native)',
     company: 'BIPO Service Indonesia',
     date: 'May 2019 - March 2020',
-    description:
-      `Build application that truly native while using
+    description: `Build application that truly native while using
 web technologies. Focusing in Front End of the product or
 application, understanding API services and
 infrastructure with which the app needs to integrate. Working for 2 project (Angular JS and React
@@ -101,8 +96,7 @@ infrastructure with which the app needs to integrate. Working for 2 project (Ang
     title: 'React Native Developer (Part Time)',
     company: '9cv9 Tech Hiring and Offshoring',
     date: 'Aug 2019 - Sep 2019',
-    description:
-      `Part-time remote as React Native Engineer.
+    description: `Part-time remote as React Native Engineer.
 Focusing on front-end of the apps, build the
 application and do testing.`,
   },
@@ -110,8 +104,7 @@ application and do testing.`,
     title: 'Software Quality Engineer',
     company: 'BIPO Service Indonesia',
     date: 'Mar 2018 - Apr 2019',
-    description:
-      `Manual testing and bugs handling for both
+    description: `Manual testing and bugs handling for both
 Web and Mobile application. Using Microsoft
 SQL Server as the tools to operate the
 databases. Reporting every testing case that divided by
@@ -164,8 +157,7 @@ export const projectsData = [
   {
     id: 'project-4',
     title: 'PESO Token',
-    description:
-      'BlockChain App build from scratch',
+    description: 'BlockChain App build from scratch',
     image: '4',
     tags: ['React Native'],
     links: {
