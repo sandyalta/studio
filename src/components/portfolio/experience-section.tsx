@@ -24,9 +24,9 @@ export default function ExperienceSection() {
                 <CardHeader>
                   <div className="flex items-center justify-between">
                     <CardTitle className="text-xl">{item.title}</CardTitle>
-                    {index % 2 !== 0 && (
+                    {
                       <Badge variant="secondary" className="hidden md:flex">{item.date}</Badge>
-                    )}
+                    }
                   </div>
                   <CardDescription>{item.company}</CardDescription>
                   <Badge variant="secondary" className="md:hidden">{item.date}</Badge>
