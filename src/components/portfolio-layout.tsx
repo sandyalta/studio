@@ -57,7 +57,7 @@ export default function PortfolioLayout() {
             <path d="M16 12v4a2 2 0 0 1-2 2h-2" />
           </svg>
           <div className="group-data-[state=collapsed]:hidden">
-            <h1 className="text-xl font-bold font-headline">PortfolioFlow</h1>
+            <h1 className="text-xl font-bold font-headline">Sandy Tadete</h1>
             <p className="text-sm text-sidebar-foreground/70">
               {personalData.title}
             </p>
