@@ -37,7 +37,7 @@ export default function ProfileSection() {
           </div>
           <div className="flex gap-4 pt-4">
             <Button variant="outline" asChild>
-              <a href="/placeholder-cv.pdf" download>
+              <a href="/sandy-tadete-cv.pdf" download>
                 <Download className="mr-2 h-4 w-4" /> Download CV
               </a>
             </Button>
