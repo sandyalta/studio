@@ -1,7 +1,8 @@
+
 export const personalData = {
   name: 'Sandy Tadete',
   title: 'Software Engineer II',
-  bio: "I plan to pursue my career as Programmer in one of the best top company in the world like Amazon, Google, etc. I need to improve my skills and knowledge in Computer Science area
+  bio: `I plan to pursue my career as Programmer in one of the best top company in the world like Amazon, Google, etc. I need to improve my skills and knowledge in Computer Science area
 specially in Computer Vision in the best University outside
 Indonesia. I realized as a undergraduate student, I would have an
 opportunities to help my own country to move forward and
@@ -18,7 +19,7 @@ me to deliver effective solutions. Most importantly, I prioritize writing
 clean, easy-to-read code that ensures maintainability and clarity.
 Rumor has it that I excel in communication and collaboration
 within the team, as reflected in the positive feedback from my
-360-degree KPI assessments conducted by all team members.",
+360-degree KPI assessments conducted by all team members.`,
   contact: {
     email: 'sandytadete@gmail.com',
     tel: '+60 11 3967 6598 || +62 812 7626 7751',
@@ -36,7 +37,7 @@ export const experienceData = [
     company: 'Airasia MOVE',
     date: 'Dec 2022 - Present',
     description:
-      'Working on Ride e-hailing app with such as
+      `Working on Ride e-hailing app with such as
 Driver app and Passenger app using React
 native project (typescript and react native,
 using Swift and Java for native). Business
@@ -47,70 +48,70 @@ and QA team on every aspect of the projects.
 Do analysing code by write and also reviewing upon development process, creating unit
 testing using JEST for FE side and handling
 support DB using mongo-DB and Kubernetes
-Engine for server side.',
+Engine for server side.`,
   },
   {
     title: 'React Native Developer (Part Time)',
     company: 'Universe Action Limited',
     date: 'May 2024 - Oct 2024',
     description:
-      'Part-time job which built a Blockchain app
+      `Part-time job which built a Blockchain app
 using react native from scratch till released to
-production',
+production`,
   },
   {
     title: 'Senior Application Engineer (React Js and MS)',
     company: 'Hitachi Ebworx Sdn Bhd',
     date: 'Aug 2021 - Nov 2022',
     description:
-      'Building web application using React Js and
+      `Building web application using React Js and
 be a part as Leader for front end team on the
 project and also working for API side using MS
 (micro services). Debug log using OpenShift and using
 pgAdmin as databases. Working for OCBC bank Beyond Velocity
 project, handling front end team on deliver
 the project, using React Js in Micro-Frontend
-(MFE) frameworks.',
+(MFE) frameworks.`,
   },
   {
     title: 'Senior Application Engineer (Mobile Developer)',
     company: 'Hitachi Ebworx Indonesia',
     date: 'June 2020 - July 2021',
     description:
-      'Build mobile application using android studio
+      `Build mobile application using android studio
 (native android) and swift (native iOS). Do hybrid project using framework for both
 android and iOS (React native, Angular JS,
 etc) and do technical support by fixing bugs
 of the project. Working for RCM project on CIMB Bank,
-handle on the Android Java code.',
+handle on the Android Java code.`,
   },
   {
     title: 'Mobile Application Developer (React Native)',
     company: 'BIPO Service Indonesia',
     date: 'May 2019 - March 2020',
     description:
-      'Build application that truly native while using
+      `Build application that truly native while using
 web technologies. Focusing in Front End of the product or
 application, understanding API services and
 infrastructure with which the app needs to integrate. Working for 2 project (Angular JS and React
   Native), creating project React Native from
-  scratch.',
+  scratch.`,
   },
   {
     title: 'React Native Developer (Part Time)',
     company: '9cv9 Tech Hiring and Offshoring',
     date: 'Aug 2019 - Sep 2019',
     description:
-      'Part-time remote as React Native Engineer.
+      `Part-time remote as React Native Engineer.
 Focusing on front-end of the apps, build the
-application and do testing.',
+application and do testing.`,
   },
   {
     title: 'Software Quality Engineer',
     company: 'BIPO Service Indonesia',
     date: 'Mar 2018 - Apr 2019',
     description:
-      'Manual testing and bugs handling for both
+      `Manual testing and bugs handling for both
 Web and Mobile application. Using Microsoft
 SQL Server as the tools to operate the
 databases. Reporting every testing case that divided by
@@ -119,7 +120,7 @@ Project Manager team and Increase
 productivity and reduce risk by raise new
 Trello. For 4 months long, our team have a project for
 Automation using Selenium and TestNG as the
-framework.',
+framework.`,
   },
 ];
 
